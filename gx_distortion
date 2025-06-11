@@ -1,0 +1,22 @@
+["gx_plugin_version", 1,
+  "Boost", {
+    "gx_distortion.drive": 0.504766,
+    "gx_distortion.gain": -0.00820315,
+    "gx_distortion.high_drive": 1,
+    "gx_distortion.high_gain": 10,
+    "gx_distortion.level": 0,
+    "gx_distortion.low_drive": 1,
+    "gx_distortion.low_gain": 10,
+    "gx_distortion.middle_h_drive": 1,
+    "gx_distortion.middle_h_gain": 10,
+    "gx_distortion.middle_l_drive": 1,
+    "gx_distortion.middle_l_gain": 10,
+    "gx_distortion.resonator.on_off": 1,
+    "gx_distortion.split_high_freq": 6625,
+    "gx_distortion.split_low_freq": 321.555,
+    "gx_distortion.split_middle_freq": 933.506,
+    "gx_distortion.trigger": 0.0975195,
+    "gx_distortion.vibrato": 0.910859,
+    "gx_distortion.wet_dry": 100
+  }
+]
