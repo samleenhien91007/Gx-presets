@@ -1,6 +1,6 @@
 ["gx_plugin_version", 1,
   "Boost", {
-    "gx_distortion.drive": 0.504766,
+    "gx_distortion.drive": 0.999766,
     "gx_distortion.gain": -5.1,
     "gx_distortion.high_drive": 1,
     "gx_distortion.high_gain": 10,
@@ -15,7 +15,7 @@
     "gx_distortion.split_high_freq": 6625,
     "gx_distortion.split_low_freq": 321.555,
     "gx_distortion.split_middle_freq": 933.506,
-    "gx_distortion.trigger": 0,
+    "gx_distortion.trigger": 0.5,
     "gx_distortion.vibrato": 0,
     "gx_distortion.wet_dry": 49.5
   }
